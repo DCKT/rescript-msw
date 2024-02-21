@@ -1,5 +1,5 @@
 {
-  "name": "@dck/rescript-<module>",
+  "name": "@dck/rescript-msw",
   "uncurried": true,
   "namespace": false,
   "sources": [
@@ -14,7 +14,7 @@
     }
   ],
   "suffix": ".mjs",
-  "bs-dev-dependencies": ["@rescript/core", "rescript-bun"],
+  "bs-dev-dependencies": ["@rescript/core", "rescript-bun", "@dck/rescript-ky"],
   "package-specs": [
     {
       "module": "es6",
