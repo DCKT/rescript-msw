@@ -18,7 +18,7 @@ npm install @dck/rescript-msw
 
 ```json
 {
-  "bsc-dependencies": ["@dck/rescript-msw"]
+  "bs-dependencies": ["@dck/rescript-msw"]
 }
 ```
 
